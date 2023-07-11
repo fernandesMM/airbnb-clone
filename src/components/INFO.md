@@ -1,0 +1,3 @@
+Responsável por inserir componentes globais, que serão usados em páginas e componentes diferentes.
+Exemplo: footer, modal, loading...
+Geralmente ele é estruturado pelo nome da pasta que contem seu index.tsx e styles.ts.

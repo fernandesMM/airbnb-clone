@@ -1,0 +1,3 @@
+Responsável por inserir as páginas da aplicação, são elas que são chamadas nas rotas;
+Exemplo: homePage, paymentPage, signPage, etc...
+
